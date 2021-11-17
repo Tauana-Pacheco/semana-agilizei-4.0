@@ -1,3 +1,5 @@
+# dependencies
+# misc
 .DS_Store
 cypress/screenshots
 cypress/videos
